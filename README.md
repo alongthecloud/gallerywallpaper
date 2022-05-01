@@ -19,6 +19,7 @@ ver 1.0.0
 
 ### 홈페이지
 * https://www.alongthecloud.com/
+* https://play.google.com/store/apps/details?id=com.alongthecloud.app.gallerywallpaper 앱 공개 테스트 설치 링크 (Only South Korea)
 
 ### 그 외
 * <a href="https://www.flaticon.com/kr/free-icons/-" title="슬라이드 쇼 아이콘">슬라이드 쇼 아이콘  제작자: bqlqn - Flaticon</a> 의 아이콘을 사용하였습니다.
